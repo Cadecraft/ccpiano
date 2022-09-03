@@ -8,7 +8,7 @@
 		"tabs",
 		"storage"
 	],
-	"browser_action": {
+	"action": {
 		"default_icon": "images/icon.png",
 		"default_popup": "mainmenu.html",
 		"default_title": "CcPiano"
