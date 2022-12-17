@@ -4,6 +4,8 @@
 */
 
 // Vars
+const ver = "0.0.2";
+document.getElementById("text1").innerText = "Cadecraft Piano v"+ver;
 
 // Sounds
 var s_kick_06 = new Audio('sounds/kick_06.wav');
